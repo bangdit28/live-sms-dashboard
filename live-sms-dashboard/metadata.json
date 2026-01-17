@@ -1,5 +1,0 @@
-{
-  "name": "Live SMS Dashboard",
-  "description": "A real-time SMS monitoring dashboard with a professional UI, featuring a live data table integrated with Firebase Realtime Database.",
-  "requestFramePermissions": []
-}
